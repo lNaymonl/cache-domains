@@ -14,3 +14,4 @@ download4.epicgames.com
 fastly-download.epicgames.com
 cloudflare.epicgamescdn.com
 egdownload.fastly-edge.com
+*.compute-1.amazonaws.com
