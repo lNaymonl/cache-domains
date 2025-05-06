@@ -1,5 +1,7 @@
 cdn1.epicgames.com
 cdn2.epicgames.com
+cdn3.epicgames.com
+cdn4.epicgames.com
 cdn.unrealengine.com
 cdn1.unrealengine.com
 cdn2.unrealengine.com
